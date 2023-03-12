@@ -1,0 +1,56 @@
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.exe
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.deps.json
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.runtimeconfig.json
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.runtimeconfig.dev.json
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.pdb
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.Form1.resources
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.MainForm.resources
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.Properties.Resources.resources
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.GenerateResource.cache
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.AssemblyInfo.cs
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.pdb
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.genruntimeconfig.cache
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Win10\Documents\Mapel Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.CopyComplete
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.exe
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.deps.json
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.runtimeconfig.json
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.runtimeconfig.dev.json
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Toku-ku.pdb
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.Form1.resources
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.MainForm.resources
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku_ku.Properties.Resources.resources
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.GenerateResource.cache
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.AssemblyInfo.cs
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.csproj.CopyComplete
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.dll
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.pdb
+C:\Users\Win10\Documents\STEMATEL'28\Class XI\KK3\Inventory\Toku-ku\Toku-ku\obj\Debug\netcoreapp3.1\Toku-ku.genruntimeconfig.cache
